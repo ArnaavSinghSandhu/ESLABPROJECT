@@ -1,0 +1,9 @@
+labprojectdraft.o: LABPROJECTDRAFT.c
+labprojectdraft.o: C:\Keil\ARM\Inc\NXP\LPC17xx\lpc17xx.h
+labprojectdraft.o: C:\Keil\ARM\CMSIS\Include\core_cm3.h
+labprojectdraft.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+labprojectdraft.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+labprojectdraft.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+labprojectdraft.o: C:\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h
+labprojectdraft.o: C:\Keil\ARM\ARMCC\bin\..\include\stdio.h
+labprojectdraft.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h
